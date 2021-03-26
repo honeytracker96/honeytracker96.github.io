@@ -16,9 +16,9 @@ minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko-KR"
-title: "놀고먹는 개발자의 노트" #Meta 태그에 들어가는 영역
+title: "고생 끝에 버그온다." #Meta 태그에 들어가는 영역
 title_separator: "&#124"
-subtitle: Version 1.0 # site tagline that appears below site title in masthead
+subtitle: by HoneyTracker96 # site tagline that appears below site title in masthead
 name: "김한빈"
 description: "java, javascript, css 등 웹에 관련된 것들을 공부합니다."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 repository: "honeytracker96/honeytracker96.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: "놀고먹는 개발자의 노트" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "고생 끝에 버그온다." # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200 #해당 포스트 읽는데 걸리는 시간 계산 단위 현재200자당 1분 설정
 comments:
